@@ -1,0 +1,14 @@
+ninja: Entering directory `/home/demir/AndroidStudioProjects/MyApplication/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+/home/demir/AndroidStudioProjects/MyApplication/app/src/main/cpp/native-lib.cpp:97:24: warning: '&&' within '||' [-Wlogical-op-parentheses]
+        if(exp[i]>='0' && exp[i]<='9' || exp[i]=='.'){
+           ~~~~~~~~~~~~^~~~~~~~~~~~~~ ~~
+/home/demir/AndroidStudioProjects/MyApplication/app/src/main/cpp/native-lib.cpp:97:24: note: place parentheses around the '&&' expression to silence this warning
+        if(exp[i]>='0' && exp[i]<='9' || exp[i]=='.'){
+                       ^
+           (                         )
+/home/demir/AndroidStudioProjects/MyApplication/app/src/main/cpp/native-lib.cpp:202:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+2 warnings generated.
+[2/2] Linking CXX shared library /home/demir/AndroidStudioProjects/MyApplication/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so

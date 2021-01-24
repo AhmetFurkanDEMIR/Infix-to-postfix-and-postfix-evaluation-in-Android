@@ -1,0 +1,5 @@
+# ninja log v5
+2	428	1611487534	CMakeFiles/native-lib.dir/native-lib.cpp.o	35a4435cf606b158
+428	472	1611487534	/home/demir/AndroidStudioProjects/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	a1a6c940b01c21c5
+3	613	1611498945	CMakeFiles/native-lib.dir/native-lib.cpp.o	35a4435cf606b158
+613	651	1611498945	/home/demir/AndroidStudioProjects/MyApplication/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	a1a6c940b01c21c5
